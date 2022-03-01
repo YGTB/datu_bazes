@@ -1,0 +1,7 @@
+ID Vards Uzvards Vecums Tel.nr. Ceka nr. 
+1  Rolands Janis 63 23187701 #00621126   
+2  Ingolfs Edgars 81 23638052 #00685179   
+3  Peters Edgars 117 21955844 #00302544   
+4  Peters Rainers 107 23859515 #00988713   
+5  Ingolfs Rainers 12 21864368 #00932283   
+6  Janis Rolands 111 23382533 #00624690   
