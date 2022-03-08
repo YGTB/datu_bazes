@@ -17,3 +17,10 @@
 	<ctime>
 	<stdio.h>
 
+1646733256 source:z:\programmesana\datu_bazes\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<bits/stdc++.h>
+

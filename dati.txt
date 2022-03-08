@@ -1,7 +1,9 @@
-ID Vards Uzvards Vecums Tel.nr. Ceka nr. 
-1  Rolands Janis 63 23187701 #00621126   
-2  Ingolfs Edgars 81 23638052 #00685179   
-3  Peters Edgars 117 21955844 #00302544   
-4  Peters Rainers 107 23859515 #00988713   
-5  Ingolfs Rainers 12 21864368 #00932283   
-6  Janis Rolands 111 23382533 #00624690   
+ID Vards Uzvards Vecums Tel.nr. Ceka nr. Produkti 
+1  Janis Lapa 102 22648745 #00413919  
+2  Edgars Biezins 96 22048805 #00677457  
+3  Janis Lietins 99 21241955 #00760023  
+4  Ingolfs Lapa 12 22842884 #00709038  
+5  Janis Lapa 76 21381248 #00974259  
+6  Rolands Lietins 38 22627163 #00567666  
+7  Rainers Cakars 50 24125429 #00951786  
+8  Janis Biezins 26 24213242 #00305910  
