@@ -1,9 +1,101 @@
-ID Vards Uzvards Vecums Tel.nr. Ceka nr. Produkti 
-1  Janis Lapa 102 22648745 #00413919  
-2  Edgars Biezins 96 22048805 #00677457  
-3  Janis Lietins 99 21241955 #00760023  
-4  Ingolfs Lapa 12 22842884 #00709038  
-5  Janis Lapa 76 21381248 #00974259  
-6  Rolands Lietins 38 22627163 #00567666  
-7  Rainers Cakars 50 24125429 #00951786  
-8  Janis Biezins 26 24213242 #00305910  
+ID Vards Uzvards Vecums Tel nr. Ceka nr. Produkti 
+1  Raivo Cerins 99 23586572 #00507375 burkans  
+2  Ronalds Carevcencenoks 98 23441339 #00459558 burkans  
+3  Andzins Carevcencenoks 51 24062663 #00379170 banana  
+4  Raivo Carevcencenoks 13 21268289 #00292446 virtulis  
+5  Peteris Cakars 45 22849913 #001002177 burkans  
+6  Peteris Cakars 23 21682010 #00715869 desa  
+7  Kristaps Carevcencenoks 112 22436291 #00181368 desa  
+8  Andzins Cakars 29 21570734 #00258588 maize  
+9  Kristaps Carevins 61 21707552 #00810513 maize  
+10  Igis Petrovics 79 22554992 #001029105 banana  
+11  Ingolfs Cakars 30 21448469 #00917829 burkans  
+12  Ronalds Cerins 42 22553012 #00484011 kartupels  
+13  Ronalds Berzins 40 23336201 #00321651 burkans  
+14  Ingolfs klavins 25 22684682 #00638946 gala  
+15  Raivo Berzins 45 22731113 #00325512 desa  
+16  Kristaps Petrovics 103 21434510 #001059399 kartupels  
+17  Raivo Carevins 91 23143349 #00464211 kartupels  
+18  Ingolfs Cerins 73 21517175 #00815859 gala  
+19  Janis Carevins 42 24018014 #00679239 desa  
+20  Ingolfs Cerins 86 21367190 #00545490 maize  
+21  Ingolfs Carevcencenoks 27 22693988 #00344322 olas  
+22  Igis Cakars 87 23182850 #00537273 kartupels  
+23  Ingolfs Cakars 26 21109097 #00644391 gala  
+24  Kristaps Carevcencenoks 45 22958120 #00129294 maize  
+25  Peteris Carevs 57 22956239 #00798831 burkans  
+26  Kristaps Carevcencenoks 100 24166415 #001036431 gala  
+27  Kristaps Carevs 33 21594989 #00405306 burkans  
+28  Raivo Cerins 37 21063062 #0099000 maize  
+29  Raivo Petrovics 85 22818728 #00207999 olas  
+30  Igis Carevcencenoks 78 22468862 #00584100 olas  
+31  Janis Carevs 117 21678644 #00208692 kartupels  
+32  Peteris Cakars 80 23072366 #00576279 burkans  
+33  Raivo Cerins 41 22880009 #00339471 maize  
+34  Andzins Cakars 38 22308878 #00182556 maize  
+35  Igis Cerins 26 23955446 #00805068 maize  
+36  Kristaps Carevcencenoks 113 23807738 #001057122 virtulis  
+37  Igis Carevcencenoks 68 21532124 #00884367 gala  
+38  Peteris klavins 52 21387287 #00804078 burkans  
+39  Janis Carevs 106 21534104 #00549252 banana  
+40  Peteris Carevcencenoks 37 21374912 #00583209 banana  
+41  Ronalds Berzins 46 22805066 #00888525 maize  
+42  Peteris Cerins 23 22887533 #00163548 kartupels  
+43  Ronalds Carevcencenoks 24 23115530 #00718839 virtulis  
+44  Andzins Carevs 98 22067912 #00729234 virtulis  
+45  Kristaps Carevcencenoks 96 23530043 #001028808 olas  
+46  Andzins Carevcencenoks 44 23551427 #00393030 olas  
+47  Andzins Carevs 119 21704681 #00516780 gala  
+48  Janis Carevins 109 21347885 #00372438 olas  
+49  Andzins Berzins 31 21994256 #00190575 maize  
+50  Ingolfs Cerins 89 23246309 #00509355 desa  
+51  Andzins Cerins 102 23744279 #00779031 gala  
+52  Ingolfs Carevs 14 22534796 #00980892 virtulis  
+53  Peteris Cakars 80 22135430 #00975744 virtulis  
+54  Igis Petrovics 13 23583899 #00557271 olas  
+55  Peteris Berzins 111 21882485 #00611226 burkans  
+56  Kristaps Berzins 20 21841499 #00262350 banana  
+57  Peteris Carevs 64 23543804 #00161964 olas  
+58  Kristaps Carevs 89 22078604 #00219879 gala  
+59  Raivo Carevs 71 21672308 #00369171 kartupels  
+60  Igis Berzins 24 21388079 #00410256 kartupels  
+61  Kristaps Carevs 15 23222945 #00520245 kartupels  
+62  Kristaps klavins 42 21309275 #00147411 gala  
+63  Raivo Berzins 70 21639341 #00262746 gala  
+64  Igis Carevins 49 21535094 #00201960 banana  
+65  Ingolfs Cerins 50 22623599 #00545886 maize  
+66  Ronalds Carevs 48 23888324 #00769923 olas  
+67  Peteris Carevs 66 21327887 #001011087 burkans  
+68  Igis klavins 27 21732698 #00919512 gala  
+69  Ronalds Cerins 72 23727152 #00874071 gala  
+70  Peteris Carevcencenoks 26 22970396 #00203445 burkans  
+71  Igis Cakars 107 21643301 #00287892 maize  
+72  Raivo Carevins 23 23397185 #00963666 kartupels  
+73  Kristaps Carevs 90 23913866 #001035045 olas  
+74  Igis Carevs 65 23985245 #00146520 banana  
+75  Igis Berzins 42 23977721 #00293931 desa  
+76  Andzins Cerins 103 21839123 #00606474 burkans  
+77  Raivo Carevs 25 22590731 #00467379 desa  
+78  Igis klavins 109 22980692 #00304425 banana  
+79  Raivo Petrovics 56 21630926 #00612315 olas  
+80  Kristaps Cerins 13 22926638 #00218988 gala  
+81  Janis Carevs 51 23357585 #00317889 kartupels  
+82  Ingolfs klavins 40 22678643 #00147114 virtulis  
+83  Janis Berzins 78 22455299 #00378477 banana  
+84  Ronalds klavins 83 22848329 #00229086 burkans  
+85  Kristaps Berzins 58 21981980 #001031679 kartupels  
+86  Raivo Carevs 44 21361151 #00691812 kartupels  
+87  Andzins Cerins 45 21623699 #00580833 virtulis  
+88  Andzins Carevins 46 22344221 #00983268 kartupels  
+89  Ronalds Petrovics 50 22352834 #00455301 maize  
+90  Kristaps Carevins 48 23249279 #00965745 olas  
+91  Andzins klavins 109 21841499 #00112860 gala  
+92  Andzins Petrovics 57 23499551 #00271458 burkans  
+93  Ronalds Carevs 82 22022174 #00705573 olas  
+94  Janis Carevins 68 21712403 #00873972 gala  
+95  Ingolfs klavins 48 23145230 #00423720 olas  
+96  Raivo klavins 105 22078109 #00654786 maize  
+97  Igis Carevs 36 22481534 #00154242 olas  
+98  Andzins Petrovics 88 23433914 #00512820 olas  
+99  Ronalds Carevs 38 21217304 #00841599 olas  
+100  Ronalds Petrovics 80 21347489 #00705078 maize  

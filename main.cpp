@@ -11,29 +11,23 @@ int main()
 
     srand(time(0));
 
-    fstream file;
-    string word, filename;
-    string vrdi;
-    string uzvrdi;
-    string vardi[8];
-    string uzvardi[8];
-    int a = 0;
-    int b = 0;
-    int c = 0;
-    int reizes = 0;
-    int ID = 0;
+    int a = 0 ,b = 0, c = 0, reizes = 0, ID = 0;
 
+    string word, filename;
+    string vardini, uzvardini;
+    string vardi[8], uzvardi[8], produkti[8];
+
+    fstream file;
 
     filename = "vardi.txt";
     file.open(filename.c_str());
 
-    cout << "Ludzu ievadiet personu vardus" << endl;
     for(int i = 0; i < 8; i++)
         {
             cout <<"Personas:" << i << endl;
-            file >> vrdi;
-            cout << vrdi << endl;
-            vardi[i] = vrdi;
+            file >> vardini;
+            cout << vardini << endl;
+            vardi[i] = vardini;
         }
     cout << endl;
 
@@ -48,14 +42,13 @@ int main()
     filename = "uzvardi.txt";
     file.open(filename.c_str());
 
-    cout << "Ludzu ievadiet personu uzvardus" << endl;
 
     for(int j = 0; j < 8; j++)
         {
             cout <<"Personas:" << j << endl;
-            file >> uzvrdi;
-            cout << uzvrdi << endl;
-            uzvardi[j] = uzvrdi;
+            file >> uzvardini;
+            cout << uzvardini << endl;
+            uzvardi[j] = uzvardini;
         }
     cout << endl;
 
@@ -66,7 +59,7 @@ int main()
     cout << endl;
     file.close();
 
-    cout << "Ievadiet 2D masinu izmerus, robeza no 3 lidz 9" << endl;
+    cout << "Ievadiet 2D masinu izmerus" << endl;
     cin >> a;
     cin >> b;
 
@@ -104,9 +97,9 @@ int main()
                     }
                     if(x == 4)
                         {
-                            cout << "Tel.nr.";
+                            cout << "Tel nr.";
                             cout << " ";
-                            mans_fails << "Tel.nr. ";
+                            mans_fails << "Tel nr. ";
                         }
                         if(x == 5)
                             {
@@ -127,6 +120,11 @@ int main()
 
     filename = "produkti.txt";
     file.open(filename.c_str());
+    for(int z = 0; z < 8; z++)
+        {
+            file >> word;
+            produkti[z] = word;
+        }
 
     string Rand_Mas[a][b];
     for(int x = 0; x < a; x++)
@@ -161,8 +159,7 @@ int main()
                            }
                            if(y == 6)
                                 {
-                                    file >> word;
-                                    cout << word;
+                                    Rand_Mas[x][y] = produkti[rand()%8];
                                 }
 
                             mans_fails << Rand_Mas[x][y] << " ";
@@ -171,33 +168,9 @@ int main()
                         cout << '\n';
                         mans_fails << endl;
                     }
-
-
     cout<< endl;
 
-
-
-    cout <<"Ludzu ievadiet skaitli no 0 - 7, lai izveletos konkretu personu" << endl;
-    cin >> c;
-
-    for(int i = 0; i < a; i++)
-    {
-        for(int j = 0; j < b; j++)
-        {
-            if(Rand_Mas[i][j] == vardi[c])
-            {
-                reizes = reizes + 1;
-            }
-        }
-    }
-    cout << endl;
-    cout << endl;
-    cout << "Persona "<< vardi[c] <<" tika atrasts " << reizes << " reizes " << endl;
     mans_fails.close();
-
-
 
     return 0;
 }
-// Edgars Igors Kristaps Rainers Ingolfs Peters Janis Rolands
-// Berzins Abolins Cakars Biezins Alpa Lapa Lietins Janka
